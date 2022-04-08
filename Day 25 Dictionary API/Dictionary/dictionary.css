@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=ZCOOL+QingKe+HuangYou&display=swap');
+body
+{
+    background-color: rgb(236, 46, 84);
+}
+#heading
+{
+    font-family:Lobster ;
+}
+
+/* #thead1
+{
+    font-family:Permanent ;
+}
+#row
+{
+    font-family: ZCOOL;
+} */
+table, thead, td {
+    border: 1px solid;
+    }
+    thead
+    {
+        color:green;
+        font-weight:bolder;
+    }
